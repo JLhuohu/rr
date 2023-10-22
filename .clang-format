@@ -1,6 +1,6 @@
 # BasedOnStyle:  Mozilla
 AccessModifierOffset: -2
-ConstructorInitializerIndentWidth: 4
+ConstructorInitializerIndentWidth: 5
 AlignEscapedNewlinesLeft: false
 AlignTrailingComments: true
 AllowAllParametersOfDeclarationOnNextLine: false
